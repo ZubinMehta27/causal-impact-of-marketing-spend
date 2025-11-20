@@ -1,9 +1,6 @@
-# Causal Inference Literature Review
+# Literature Review
 
-This document provides a unified, clean, academically standard **APA-style** literature review reference file.
-All sections now use APA in-text citation style — e.g., *(Pearl & Mackenzie, 2018)* — and a single consolidated reference list.
-
----
+This document provides a unified, clean, academically standard **APA-style** literature review for the Causal Impact of Marketing Spend project.
 
 ## 1. Historical Context and Seminal Works
 
@@ -11,15 +8,11 @@ All sections now use APA in-text citation style — e.g., *(Pearl & Mackenzie, 2
 * Pearl’s formalization of causal diagrams and the logic of causal inference *(Pearl, 1995)*.
 * Pearl’s Ladder of Causation framework, articulated across his works *(Pearl, 2009)*.
 
----
-
 ## 2. Methodological Foundations
 
 * Bayesian Structural Time Series for causal impact estimation *(Brodersen et al., 2015)*.
 * Framework approach to causal identification, estimation, and refutation in software *(Sharma et al., 2020)*.
 * Machine learning for heterogeneous treatment effects via Orthogonal Random Forests *(Oprescu et al., 2019)*.
-
----
 
 ## 3. Causal Inference Software & Documentation
 
@@ -46,11 +39,9 @@ All sections now use APA in-text citation style — e.g., *(Pearl & Mackenzie, 2
 * CausalML GitHub repository *(Uber Engineering, 2024b)*.
 * PyWhy project hub *(PyWhy, 2024d)*.
 
----
-
 ## 4. Notes & Thematic Summaries
 
-You may fill these in as you review the literature.
+_to be duly filled by author..._.
 
 ### 4.1 Key Concepts
 
@@ -60,9 +51,7 @@ You may fill these in as you review the literature.
 
 ### 4.4 Application to Your Project
 
----
-
-## 5. References (APA Format)
+## 5. References
 
 Brodersen, K. H., Gallusser, F., Koehler, J., Remy, N., & Scott, S. L. (2015). Inferring causal impact using Bayesian structural time-series models. *The Annals of Applied Statistics, 9*(1), 247–274. [https://doi.org/10.1214/15-STS510](https://doi.org/10.1214/15-STS510)
 
